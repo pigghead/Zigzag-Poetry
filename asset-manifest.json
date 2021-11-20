@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zigzag-Poetry/static/css/main.335adabb.chunk.css",
+    "main.js": "/Zigzag-Poetry/static/js/main.aa7e9852.chunk.js",
+    "main.js.map": "/Zigzag-Poetry/static/js/main.aa7e9852.chunk.js.map",
+    "runtime-main.js": "/Zigzag-Poetry/static/js/runtime-main.6877354b.js",
+    "runtime-main.js.map": "/Zigzag-Poetry/static/js/runtime-main.6877354b.js.map",
+    "static/js/2.c7e6edba.chunk.js": "/Zigzag-Poetry/static/js/2.c7e6edba.chunk.js",
+    "static/js/2.c7e6edba.chunk.js.map": "/Zigzag-Poetry/static/js/2.c7e6edba.chunk.js.map",
+    "static/js/3.9827df55.chunk.js": "/Zigzag-Poetry/static/js/3.9827df55.chunk.js",
+    "static/js/3.9827df55.chunk.js.map": "/Zigzag-Poetry/static/js/3.9827df55.chunk.js.map",
+    "index.html": "/Zigzag-Poetry/index.html",
+    "static/css/main.335adabb.chunk.css.map": "/Zigzag-Poetry/static/css/main.335adabb.chunk.css.map",
+    "static/js/2.c7e6edba.chunk.js.LICENSE.txt": "/Zigzag-Poetry/static/js/2.c7e6edba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6877354b.js",
+    "static/js/2.c7e6edba.chunk.js",
+    "static/css/main.335adabb.chunk.css",
+    "static/js/main.aa7e9852.chunk.js"
+  ]
+}
